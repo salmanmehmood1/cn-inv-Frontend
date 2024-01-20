@@ -1,0 +1,72 @@
+.custom-grid
+  .e-headercell
+  .e-headercontent
+  .e-headertext
+  .e-headercelldiv
+  .e-table
+  .e-sortfilter
+  .e-grid {
+  /* font-size: 100px !important; */
+  white-space: nowrap !important;
+  font-weight: bold !important;
+  font-size: 16px;
+}
+
+.custom-grid .e-headercell {
+  height: 60px !important;
+  color: #03c9d7;
+  /* font-size: 18px !important; */
+}
+
+.custom-grid .e-rowcell {
+  white-space: nowrap;
+  height: 12px !important;
+}
+
+.custom-grid .e-row .e-rowcell {
+  height: 30px !important;
+}
+
+.custom-grid .e-headercontent .e-headercelldiv {
+  line-height: 30px !important;
+  font-size: 20px !important;
+}
+
+.custom-grid .e-content .e-rowcell {
+  height: 30px !important;
+  font-size: 14px !important;
+}
+
+.custom-grid .e-headercell .e-sortfilterdiv {
+  line-height: 30px !important;
+}
+
+
+#BrandSelect option {
+  /* Styles for each option */
+  background-color: #fff; /* Background color */
+  color: #000; /* Text color */
+  padding: 8px; /* Padding */
+}
+
+
+
+#BrandSelect option:hover {
+  /* Styles for a hovered option */
+  background-color: #e0e0e0; /* Hover background color */
+}
+
+
+/* .container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.left-buttons {
+  display: flex;
+}
+
+.right-button {
+  margin-left: auto;
+} */
+
